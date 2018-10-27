@@ -1,3 +1,12 @@
+#steps to install anconda
+install anaconda
+save that cv2.pyd file in C:\Users\HP\Anaconda3\Lib\site-packages
+then install opencv
+
+#install openCV
+pip install opencv-python
+pip install opencv-contrib-python
+
 # driver-fatigue-detection-system
 dependencies <br />
 conda install pip <br />
