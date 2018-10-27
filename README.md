@@ -1,9 +1,9 @@
-#steps to install anconda
+# steps to install anaconda
 install anaconda
 save that cv2.pyd file in C:\Users\HP\Anaconda3\Lib\site-packages
 then install opencv
 
-#install openCV
+# install openCV
 pip install opencv-python
 pip install opencv-contrib-python
 
